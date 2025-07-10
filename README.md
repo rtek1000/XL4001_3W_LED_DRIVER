@@ -10,7 +10,7 @@ XL4001 IC based, 3W 5-35V LED Driver 700mA PWM Dimming DC to DC Step-down Consta
 
 ![img](https://raw.githubusercontent.com/rtek1000/XL4001_3W_LED_DRIVER/refs/heads/main/LED%20DRIVER%20700mA%20XL4001.png)
 
-- Schematic (Although the FB pin is grounded, unused, this pin is used to control the voltage)
+- Schematic (Although the FB pin is grounded, unused, this pin can control the output voltage)
 
 ![img](https://raw.githubusercontent.com/rtek1000/XL4001_3W_LED_DRIVER/refs/heads/main/LED%20DRIVER%20700mA%20XL4001_SCH.png)
 
