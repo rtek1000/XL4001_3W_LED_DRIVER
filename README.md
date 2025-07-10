@@ -1,7 +1,7 @@
 # XL4001 3W LED DRIVER
 XL4001 based, 3W 5-35V LED Driver 700mA PWM Dimming DC to DC Step-down Constant Current
 
-- Can be adapted to charge battery
+(Can be adapted to charge battery)
 
 - Board
 
