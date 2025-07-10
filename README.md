@@ -1,5 +1,5 @@
 # XL4001 3W LED DRIVER
-XL4001 based, 3W 5-35V LED Driver 700mA PWM Dimming DC to DC Step-down Constant Current
+XL4001 IC based, 3W 5-35V LED Driver 700mA PWM Dimming DC to DC Step-down Constant Current
 - XL4001: 2A 150kHz 40V Buck DC/DC Converter With Constant Current Loop
 - DC to DC Step-down Constant Current: means that the input voltage will be delivered to the output, but it may decrease as the load current increases.
 - - Voltage [v] = Current [I] x Resistance [R]; [(Ohm's law) ](https://en.wikipedia.org/wiki/Ohm%27s_law)
