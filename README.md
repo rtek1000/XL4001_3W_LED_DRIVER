@@ -13,7 +13,7 @@ XL4001 based, 3W 5-35V LED Driver 700mA PWM Dimming DC to DC Step-down Constant 
 
 ![img](https://raw.githubusercontent.com/rtek1000/XL4001_3W_LED_DRIVER/refs/heads/main/LED%20DRIVER%20700mA%20XL4001_SCH.png)
 
-- Specs
+- Specs (Just for reference, some information seems different from the actual board found in the PCB board sales ad)
 
 ![img](https://raw.githubusercontent.com/rtek1000/XL4001_3W_LED_DRIVER/refs/heads/main/Specs.png)
 
