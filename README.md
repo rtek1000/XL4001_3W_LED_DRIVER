@@ -13,3 +13,10 @@ XL4001 based, 3W 5-35V LED Driver 700mA PWM Dimming DC to DC Step-down Constant 
 
 
 Ref.: https://www.aliexpress.com/item/1005005703356461.html
+
+-----
+
+Hardware:
+Released under CERN OHL 1.2: https://ohwr.org/cernohl
+
+Note: This library is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE
